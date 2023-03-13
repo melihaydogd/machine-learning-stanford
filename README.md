@@ -1,0 +1,1 @@
+I completed [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) course on Coursera. Certificate can be found [here](https://coursera.org/share/877583b65b6a5bb8da783bf89b5e88e5)
